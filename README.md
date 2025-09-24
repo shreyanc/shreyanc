@@ -1,6 +1,6 @@
-# 🎵 Shreyan Chowdhury, Ph.D.
+# Shreyan Chowdhury, Ph.D.
 
-**Machine Learning Engineer • Audio Processing Expert • Research Scientist**
+**Machine Learning Engineer & Researcher • Audio / Music / Voice**
 
 > *Developing technologies that enhance the human listening and visual experience through the intersection of signal processing, machine learning, and creativity.*
 
@@ -8,32 +8,20 @@
 
 ## 🚀 Currently Building
 
-**🎮 [Space Moths](https://github.com/shreyanc)** - Quantum AI-powered level generation for gaming  
-**🎼 [RECURSE](https://github.com/shreyanc)** - Infinite music streaming powered by quantum-classical ML hybrid models  
+**🎮 [Space Moths](https://mothquantum.com/gamescom)** - Quantum AI-powered level generation for gaming  
+**🎼 [RECURSE](https://infinite.mothquantum.com)** - Infinite music streaming powered by quantum-classical hybrid ML models  
 **🎛️ Neural Audio Processing** - Real-time, low-latency models for professional audio applications  
 
 ---
 
 ## 🎯 What I Do
 
-```python
-class ShreyansExpertise:
-    def __init__(self):
-        self.domains = [
-            "🎵 Music Information Retrieval",
-            "🔊 Audio Signal Processing", 
-            "🤖 Explainable AI",
-            "⚡ Real-time ML Systems",
-            "🎹 Computational Music Performance"
-        ]
-        
-    def current_focus(self):
-        return {
-            "quantum_ml": "Hybrid quantum-classical approaches for generative music",
-            "audio_production": "Neural models for guitar amp modeling & voice conversion",
-            "expressivity": "AI that understands and generates musical emotion"
-        }
-```
+
+    🎵 Music Information Retrieval
+    🔊 Audio Signal Processing
+    🤖 Explainable AI
+    ⚡ Real-time ML Systems
+    🎹 Computational Musical Creativity
 
 ---
 
@@ -47,7 +35,7 @@ class ShreyansExpertise:
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Toolkit
 
 ### **Deep Learning & Audio**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -69,7 +57,7 @@ class ShreyansExpertise:
 ## 🔬 Research Highlights
 
 ### **Explainable AI in Music** 🎼
-*Making AI's musical understanding interpretable and transferable*
+*Making music emotion recognition interpretable and transferable*
 - Developed novel approaches to decode emotional expression in piano performances
 - Created domain adaptation techniques for cross-dataset model transfer
 - Published in top-tier conferences (ICML, ICASSP, ISMIR)
@@ -78,38 +66,12 @@ class ShreyansExpertise:
 *From research to production-ready systems*
 - Optimized neural models for sub-10ms latency audio processing
 - Built end-to-end condition monitoring systems deployed on embedded devices
-- Specialized in LSTM architectures for real-time guitar amplifier modeling
+- Improved architectures for real-time guitar amplifier modeling
 
 ### **Quantum-Classical Hybrid ML** 🔮
-*Exploring the frontier of quantum-enhanced audio generation*
-- Pioneering quantum-classical approaches for infinite music generation
-- Productionized quantum AI for game level generation
+*Exploring the what quantum-classical hybrid ML systems can achieve in the creative space*
+- Productionizing quantum reservoir learning for music generation and game level generation
 - Leading research at the intersection of quantum computing and creative AI
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyanc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanc&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### 🎵 Audio ML Research
-Repositories showcasing cutting-edge research in music information retrieval, emotion recognition, and explainable AI for audio.
-
-### 🎛️ Production Audio Systems
-Real-world implementations of neural audio processing, including guitar amp modeling and voice conversion pipelines.
-
-### 🔊 Signal Processing Tools
-Fundamental DSP algorithms and utilities for audio analysis, feature extraction, and real-time processing.
-
-### 🤖 Explainable AI
-Open-source implementations of interpretability techniques specifically designed for audio and music applications.
 
 ---
 
@@ -119,19 +81,3 @@ Open-source implementations of interpretability techniques specifically designed
 - 🔗 **LinkedIn**: [Connect with me](https://linkedin.com/in/shreyan-chowdhury)
 - 📚 **Google Scholar**: [Research Publications](https://scholar.google.com)
 - 🌐 **Location**: Innsbruck, Austria
-
----
-
-## 🎯 Open to Collaborate On
-
-- 🎵 Music information retrieval projects
-- 🤖 Explainable AI research
-- ⚡ Real-time audio processing challenges
-- 🔮 Quantum-classical hybrid ML approaches
-- 🎮 AI for creative applications
-
----
-
-*"At the intersection of signal processing, machine learning, and creativity lies the future of human-computer musical interaction."*
-
-⭐ **Feel free to explore my repositories and don't hesitate to reach out for collaborations!**
