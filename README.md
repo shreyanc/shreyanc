@@ -25,14 +25,14 @@
 
 ---
 
-## 🏆 Notable Achievements
+<-- ## 🏆 Notable Achievements
 
 - 🥇 **1st Place** - MediaEval Emotion Recognition Challenge
 - 📄 **Patent Holder** - Audio-based equipment monitoring systems
 - 🎓 **Ph.D. in Computer Science** - Specialized in explainable AI for music
 - 🏢 **Co-Founder & CSO** - Built state-of-the-art voice conversion models at SongForm
 - 📚 **Published Researcher** - ICML, ICASSP, ISMIR conferences
-
+-->
 ---
 
 ## 🛠️ Technical Toolkit
